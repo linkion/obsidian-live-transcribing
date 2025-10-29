@@ -17,8 +17,15 @@
 		"@typescript-eslint/parser": "5.29.0",
 		"builtin-modules": "3.3.0",
 		"esbuild": "0.17.3",
+		"eslint-config-prettier": "^10.1.8",
+		"jiti": "^2.6.1",
 		"obsidian": "latest",
+		"prettier": "^3.6.2",
 		"tslib": "2.4.0",
 		"typescript": "4.7.4"
-	}
+	},
+	"engines": {
+		"node": ">=25"
+	},
+	"packageManager": "pnpm@10.20.0"
 }
